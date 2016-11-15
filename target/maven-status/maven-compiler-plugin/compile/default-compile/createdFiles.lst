@@ -1,0 +1,12 @@
+com/xy/EmployeeRepository.class
+com/xy/SpringDataJpaUserDetailsService.class
+com/xy/EventHandler.class
+com/xy/SecurityConfiguration.class
+com/xy/SpringDataRestEventHandler.class
+com/xy/DatabaseLoader.class
+com/xy/ManagerRepository.class
+com/xy/Manager.class
+com/xy/Appication.class
+com/xy/WebSocketConfiguration.class
+com/xy/HomeContorller.class
+com/xy/Employee.class
